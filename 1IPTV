@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:0,MTV Norway
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0,Afro 247
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:0,Nigbati
+http://mn-nl.mncdn.com/ezcdn-nigbati/live_1/playlist.m3u8
+#EXTINF:0,Bride Tv
+https://streaming.viewmedia.tv/viewsatstream13/viewsatstream13.smil/playlist.m3u8
+#EXTINF:0,Channels Tv
+https://www.youtube.com/watch?v=-c8LoR84Xjs
+#EXTINF:-1,Sudtirol TV
+http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8
+#EXTINF:-1,SuperTV
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1,TeleArena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1,teleMonteneve
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1,telePAVIA
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,TeleStudio Modena
+http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+#EXTINF:-1,Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
